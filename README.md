@@ -1,0 +1,1 @@
+# How-to-Setup-a-SIEM-in-Microsoft-Azure-Sentinel-
